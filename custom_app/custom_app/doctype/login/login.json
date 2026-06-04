@@ -13,7 +13,8 @@
   "addresss",
   "text",
   "summa",
-  "another"
+  "another",
+  "another_2"
  ],
  "fields": [
   {
@@ -50,11 +51,16 @@
    "fieldname": "another",
    "fieldtype": "Data",
    "label": "Another"
+  },
+  {
+   "fieldname": "another_2",
+   "fieldtype": "Data",
+   "label": "Another 2"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-06-04 13:21:34.517675",
+ "modified": "2026-06-04 13:24:45.417573",
  "modified_by": "Administrator",
  "module": "Custom App",
  "name": "Login",
