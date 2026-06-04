@@ -12,7 +12,8 @@
   "email",
   "addresss",
   "text",
-  "summa"
+  "summa",
+  "another"
  ],
  "fields": [
   {
@@ -44,11 +45,16 @@
    "fieldname": "summa",
    "fieldtype": "Data",
    "label": "Summa"
+  },
+  {
+   "fieldname": "another",
+   "fieldtype": "Data",
+   "label": "Another"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-06-03 13:00:05.044385",
+ "modified": "2026-06-04 13:21:34.517675",
  "modified_by": "Administrator",
  "module": "Custom App",
  "name": "Login",
