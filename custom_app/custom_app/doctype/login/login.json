@@ -10,7 +10,9 @@
   "first_name",
   "phone",
   "email",
-  "addresss"
+  "addresss",
+  "text",
+  "summa"
  ],
  "fields": [
   {
@@ -32,12 +34,22 @@
    "fieldname": "addresss",
    "fieldtype": "Data",
    "label": "Addresss"
+  },
+  {
+   "fieldname": "text",
+   "fieldtype": "Attach Image",
+   "label": "Text"
+  },
+  {
+   "fieldname": "summa",
+   "fieldtype": "Data",
+   "label": "Summa"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2026-06-02 11:44:49.175836",
- "modified_by": "rajarams7200@gmail.com",
+ "modified": "2026-06-03 13:00:05.044385",
+ "modified_by": "Administrator",
  "module": "Custom App",
  "name": "Login",
  "owner": "Administrator",
